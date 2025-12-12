@@ -1,19 +1,23 @@
 Personal Profile Card
 
+<hr>
+
 Features:
+<ul>
+<li>Modern, minimal card layout</li>
 
-Modern, minimal card layout
+<li>Profile picture section</li>
 
-Profile picture section
+<li>Username + short bio</li>
 
-Username + short bio
+<li>Social media icons (Instagram, X, LinkedIn)</li>
 
-Social media icons (Instagram, X, LinkedIn)
+<li>Clean typography</li>
 
-Clean typography
+<li>Dark background / light card contrast</li>
+</ul>
 
-Dark background / light card contrast
-
+<hr>
 
 Tech Used:
 
@@ -23,7 +27,7 @@ CSS3
 
 JavaSrcipt (For The Time)
 
-
+<hr>
 
 What I Practiced:
 
@@ -39,5 +43,7 @@ Typography hierarchy
 Icon placement and styling
 
 Making the card feel compact and modern
+
+<hr>
 
 <img width="974" height="547" alt="Screenshot 2025-12-11 230131" src="https://github.com/user-attachments/assets/9fee6d37-4daa-4fd8-b2aa-35b6ca9cd8c0" />
